@@ -1,0 +1,47 @@
+
+body {
+    font-family: Geneva;
+    background-color: #f2f2f3;
+}
+
+a:link {
+    color: #1979ff;
+}
+
+a:visited {
+    color: #6b6b6b;
+}
+
+.menu {
+    padding-left: 20px;
+}
+
+.menu h1 {
+    margin: 10px;
+    padding: 10px;
+}
+.menu h3 {
+    border: 2px solid #797a7a;
+    padding: 5px;
+    margin: 15px;
+    background-color: #cde1f7;
+    display: inline;
+}
+
+.menu {
+    height: 150px;
+    width: 100%;
+    background-color: #f0dcdb;
+}
+
+.achibar {
+    height: 100px;
+    background-color: #d7cdf7;
+    text-align: center;
+    padding: 10px;
+}
+
+.achibar h5 {
+    display: inline;
+    margin: 30px;
+}
